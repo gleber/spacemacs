@@ -19,6 +19,7 @@ org-files/
 semanticdb/
 edts/
 .recentf
+recentf
 .recentf~
 projectile.cache
 projectile-bookmarks.eld
