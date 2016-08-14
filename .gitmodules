@@ -1,0 +1,3 @@
+[submodule "private/intero"]
+	path = private/intero
+	url = https://github.com/cydparser/spacemacs-intero.git
